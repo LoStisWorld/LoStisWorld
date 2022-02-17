@@ -42,7 +42,7 @@
 <br>
 <br>
 
-<!-- > Some logo design videos
+### Some logo design videos
 
 <p align="center">
 <a href="https://www.youtube.com/watch?feature=player_embedded&v=aOQrU7RTjUM
@@ -59,4 +59,4 @@ alt="Video" width="240" height="180" border="2" /></a>;&nbsp;
 <a href="https://www.youtube.com/watch?feature=player_embedded&v=Jh4EoE5GfxU
 " target="_blank"><img src="https://img.youtube.com/vi/Jh4EoE5GfxU/0.jpg" 
 alt="Video" width="240" height="180" border="2" /></a>;&nbsp;
-</p> -->
+</p>
