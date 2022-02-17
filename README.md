@@ -43,13 +43,8 @@
 <br>
 
 <div align="center">
-    <p>Get in touch</p>
-    
-<a href="https://codepen.io/LoSti" target="_blank">
-    <img src="https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black" />
-</a>&nbsp;
-<a href="https://www.youtube.com/user/LoStisworldnet" target="_blank">
-    <img src="https://img.shields.io/badge/<handle>-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" />
-</a>&nbsp;
-
+    <p>Get in touch</p> 
+<a href="https://discord.gg/4aPquYg" target="_blank"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
+<a href="https://codepen.io/LoSti" target="_blank"><img src="https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black"></a>
+<a href="https://www.youtube.com/user/LoStisworldnet" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"></a>
 </div>
