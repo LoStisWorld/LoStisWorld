@@ -1,4 +1,6 @@
-### Hi there 👋
+### Whoop Whoop
+
+![image](https:/raw.githubusercontent.com/LoStisWorld/main/headerpic.jpg)
 
 **LoStisWorld/LoStisWorld** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
