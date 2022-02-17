@@ -1,6 +1,6 @@
-#### Hi there, i'm
-### **David aka LoSti**
-`Design & Development with 100% passion`
+    Hi there, i'm
+    David aka LoSti
+    Design & Development with 100% passion
 
 ![](https://github.com/LoStisWorld/LoStisWorld/blob/main/headerpic.jpg)
 
@@ -42,7 +42,7 @@
 <br>
 <br>
 
-    Some logo design videos
+> Some logo design videos
 
 <p align="center">
 <a href="https://www.youtube.com/watch?feature=player_embedded&v=aOQrU7RTjUM
