@@ -43,7 +43,7 @@
 <br>
 
 <div align="center">
-    <h3>Some logo design videos</h3>
+    <p>Some logo design videos</p>
     
 <a href="https://www.youtube.com/watch?feature=player_embedded&v=aOQrU7RTjUM
 " target="_blank"><img src="https://img.youtube.com/vi/aOQrU7RTjUM/0.jpg" 
