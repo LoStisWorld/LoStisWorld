@@ -1,9 +1,9 @@
-### Whoop Whoop
-
+### Hi there, i'm
+# David aka LoSti
+### Design & Development
+## With 100% Passion
 ---
-
 ![](https://github.com/LoStisWorld/LoStisWorld/blob/main/headerpic.jpg)
-
 ---
 
 **LoStisWorld/LoStisWorld** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
