@@ -2,7 +2,7 @@
     David aka LoSti
     Design & Development with 100% passion
 
-![](https://github.com/LoStisWorld/LoStisWorld/blob/main/headerpic.jpg)
+<img src="https://github.com/LoStisWorld/LoStisWorld/blob/main/headerpic.jpg" style="border-radius: 6px">
 
 <br>
 
