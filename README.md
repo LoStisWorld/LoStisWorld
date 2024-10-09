@@ -1,4 +1,4 @@
-![](https://github.com/LoStisWorld/LoStisWorld/blob/main/headerpic2.jpg)
+![](https://github.com/LoStisWorld/LoStisWorld/blob/main/headerpic-dark.jpg)
 
 <br>
 
